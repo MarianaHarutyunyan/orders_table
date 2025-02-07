@@ -9,7 +9,7 @@ export interface Order {
   name: string;
   email: string;
   phone: string;
-  lead: { name: string; email: string; phone: string };
+  lead: Lead;
   type: string;
   direction: string;
   packageSize: string;
