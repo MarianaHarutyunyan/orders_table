@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Cargo A",
+    "type": "aerial",
+    "pickupCountry": "Armenia",
+    "shippingCountry": "Georgia",
+    "lead": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cargo B",
+    "type": "overland",
+    "pickupCountry": "Russia",
+    "shippingCountry": "Armenia",
+    "lead": {
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "phone": "987-654-3210"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cargo C",
+    "type": "sea",
+    "pickupCountry": "Armenia",
+    "shippingCountry": "Armenia",
+    "lead": {
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "phone": "456-789-0123"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cargo D",
+    "type": "aerial",
+    "pickupCountry": "Georgia",
+    "shippingCountry": "Armenia",
+    "lead": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "504-625-8275"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cargo E",
+    "type": "overland",
+    "pickupCountry": "Russia",
+    "shippingCountry": "Georgia",
+    "lead": {
+      "name": "Alice",
+      "email": "Alice@example.com",
+      "phone": "902-752-3440"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Cargo F",
+    "type": "overland",
+    "pickupCountry": "Georgia",
+    "shippingCountry": "Armenia",
+    "lead": {
+      "name": "Lea",
+      "email": "Lea@example.com",
+      "phone": "955-832-7142"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cargo G",
+    "type": "aerial",
+    "pickupCountry": "Russia",
+    "shippingCountry": "Armenia",
+    "lead": {
+      "name": "Jack Smith",
+      "email": "jackSmitha@example.com",
+      "phone": "805-311-2045"
+    }
+  }
+]
